@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "mapbox-gl": "^2.6.1",
     "animate.css": "^4.1.1",
     "axios": "^0.21.1",
     "bulma": "^0.9.3",
@@ -12,7 +13,7 @@
     "react-animate-on-scroll": "^2.1.5",
     "react-carousel-minimal": "^1.4.1",
     "react-dom": "^17.0.1",
-    "react-map-gl": "^6.1.17",
+    "react-map-gl": "^5.0.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-scroll-motion": "^0.2.1",
