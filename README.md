@@ -464,5 +464,5 @@ This project led me to tackle an uphill battle of relationships, learning about 
 ## Future features
 
 - Make the styling of the museum cards on the index page more consistent between different museums.
-- Adding better mobile compatibility
+- Adding better mobile compatibility.
 - Add functionality to keep the bookmark symbol checked on museums the user has favourited, and being able to ‘un-favourite’ them from deselecting the button.
