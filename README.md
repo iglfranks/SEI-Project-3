@@ -1,5 +1,11 @@
 # Museum Mapper, group project of 4 - 8 days
 
+Team Members:
+
+- [Sapphire Patson](https://github.com/sapphire-p)
+- [Kumar Mehta](https://github.com/Kumarmehta019)
+- [Oliver Skjevesland](https://github.com/Olys6)
+
 [Link to deployed version](https://if-museum-mapper.herokuapp.com/)
 
 ## Overview
